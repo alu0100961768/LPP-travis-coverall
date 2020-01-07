@@ -4,4 +4,6 @@ language: ruby
 cache: bundler
 rvm:
   - 2.5.1
+script:
+  -"bundle exec rspec spec"
 before_install: gem install bundler -v 2.0.2
