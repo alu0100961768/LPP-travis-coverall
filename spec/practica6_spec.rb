@@ -1,5 +1,3 @@
-require 'coveralls'
-Coveralls.wear!
 
 RSpec.describe Practica6 do
 
