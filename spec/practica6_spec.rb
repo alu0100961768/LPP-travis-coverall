@@ -1,3 +1,6 @@
+require 'coveralls'
+Coveralls.wear!
+
 RSpec.describe Practica6 do
 
   context "Practica 10" do
