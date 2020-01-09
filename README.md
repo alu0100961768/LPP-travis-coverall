@@ -1,5 +1,11 @@
 # Práctica 6
 
+[![Coverage Status](https://coveralls.io/repos/github/alu0100961768/LPP-travis-coverall/badge.svg?branch=master)](https://coveralls.io/github/alu0100961768/LPP-travis-coverall?branch=master)
+
+[![Test Status](https://travis-ci.org/alu0100961768/LPP-travis-coverall.svg?branch=master)](https://travis-ci.org/alu0100961768/LPP-travis-coverall.svg?branch=master)
+
+
+
 ## Autor
 Germán Alfonso Teixidó alu0100961768
 
